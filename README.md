@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [ibrahimshahine.com](ibrahimshahine.com)
+- 👨‍💻 All of my projects are available at [ibrahimshahine.com](https://ibrahimshahine.com)
 
 - 📝 I sometimes write articles on [https://ibracodes.hashnode.dev/](https://ibracodes.hashnode.dev/)
 
