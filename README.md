@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ibrahimshahine.com](https://ibrahimshahine.com)
 
-- 📝 I sometimes write articles on [https://ibracodes.hashnode.dev/](https://ibracodes.hashnode.dev/)
+- 📝 I sometimes write articles on [blog.ibrahimshahine.com](https://blog.ibrahimshahine.com/)
 
 - 💬 Ask me about **React, NodeJS, NextJS, Angular, Spring**
 
