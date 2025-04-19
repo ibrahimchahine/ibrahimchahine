@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [ibrahimshahine.com](https://ibrahimshahine.com)
+- 👨‍💻 All of my projects are available at [ibracodes.com](https://ibracodes.com)
 
-- 📝 I sometimes write articles on [blog.ibrahimshahine.com](https://blog.ibrahimshahine.com/)
+- 📝 I sometimes write articles on [blog.ibracodes.com](https://blog.ibracodes.com/)
 
 - 💬 Ask me about **React, NodeJS, NextJS, Angular, Spring**
 
